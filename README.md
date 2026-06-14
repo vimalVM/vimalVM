@@ -10,7 +10,7 @@
 
 ### 🕸️ About Me
 
-- 🎓 CS student at K. J. Somaiya Vidyavihar
+- 🎓 MCA student at K. J. Somaiya Vidyavihar
 - 🛠️ Full-stack developer — Spring Boot, React, MongoDB, Java
 - 🤖 Exploring AI/ML, Computer Vision & Data Analytics
 - 🌐 Building with free-tier tools & cloud-hosted solutions
