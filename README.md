@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:1167B1&height=220&section=header&text=Vimal%20Vijayan&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20|%20AI/ML%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=vimalVM&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/vimalVM?style=for-the-badge&color=1167B1&labelColor=0D1117)
+
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=DC143C&center=true&vCenter=true&width=520&lines=With+great+code+comes+great+responsibility;Swinging+through+Spring+Boot+%26+React;Building+AI%2FML+%26+CV+projects;Always+debugging%2C+never+afraid+to+fall" alt="Typing SVG" />
 
 </div>
@@ -13,8 +16,12 @@
 - 🎓 MCA student at K. J. Somaiya Vidyavihar
 - 🛠️ Full-stack developer — Spring Boot, React, MongoDB, Java
 - 🤖 Exploring AI/ML, Computer Vision & Data Analytics
-- 🌐 Building with free-tier tools & cloud-hosted solutions
+- 🔭 Currently building a **Canteen Management System** (Spring Boot 3 + React + MongoDB Atlas)
+- 🌱 Leveling up through ML foundations, deep learning & MLOps
+- 🌐 Free-tier tools, cloud-hosted solutions, original builds
 - 📍 Mumbai, India
+
+> 🕷️ *"With great power comes great responsibility."*
 
 ---
 
@@ -30,6 +37,10 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-DC143C?style=for-the-badge&logo=opencv&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1167B1?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-DC143C?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1167B1?style=for-the-badge&logo=streamlit&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Oracle](https://img.shields.io/badge/Oracle-DC143C?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -56,6 +67,26 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalVM&layout=compact&theme=dark&bg_color=0D1117&title_color=DC143C&text_color=ffffff&border_color=DC143C" width="35%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalVM&theme=dark&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=1167B1&border=DC143C" width="49%"/>
+
+</div>
+
+---
+
+### 📈 Web-Slinging Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalVM&theme=react-dark&hide_border=true&bg_color=0D1117&color=DC143C&line=DC143C&point=1167B1&area=true&area_color=DC143C" width="100%"/>
+
+</div>
+
+---
+
+### 🏆 Trophy Web
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vimalVM&theme=dracula&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
