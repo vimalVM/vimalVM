@@ -19,7 +19,6 @@
 - 🎓 MCA student at **K. J. Somaiya Vidyavihar**, Mumbai
 - 🧪 Building across **full-stack web, data analytics, ML, and computer vision**
 - 🧵 I'd rather ship something original than start from a template
-- 🕷️ Spider-Man fan — hence the red, blue, and a little bit of web on this page
 - 📡 Currently deep in agentic AI tooling and forecasting models for IoT data
 
 &nbsp;
