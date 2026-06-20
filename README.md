@@ -170,11 +170,11 @@ Role-based loan origination system with an EMI scheduling engine.
 
 <div align="center">
 
-![Email](https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=E8112D)
+![vimalvijayan965@gmail.com](https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=E8112D)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-2541B2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-E8112D?style=for-the-badge&logo=vercel&logoColor=white)
 
-*Swap the LinkedIn / Portfolio badges above to point at your real links — placeholders for now.*
+
 
 </div>
 
@@ -188,12 +188,3 @@ Role-based loan origination system with an EMI scheduling engine.
 
 </div>
 
-<details>
-<summary>📝 Before you push this</summary>
-
-- I couldn't pull your live repo list — GitHub blocks automated browsing of profile pages, and the API was rate-limited on this network. Double-check the project descriptions above match your actual repos and fix the slug in each "Explore →" link.
-- Swap the LinkedIn / Portfolio badges for your real links.
-- If a project isn't public yet, drop its link or mark it "private."
-- This file needs to live in a repo named **exactly** `vimalVM` (matching your username) as `README.md` to show up on your profile page.
-
-</details>
